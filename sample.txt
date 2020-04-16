@@ -3,3 +3,4 @@ edit
 from develop branch
 masterからの編集でやんす
 
+newsからの編集ですよー
