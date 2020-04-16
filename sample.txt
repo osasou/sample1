@@ -1,3 +1,4 @@
 Hello Git
 edit
 from develop branch
+newsからの編集ですよー
