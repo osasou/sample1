@@ -2,8 +2,11 @@ Hello Git
 edit
 from develop branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 masterからの編集でやんす
 
 newsからの編集ですよー
+=======
+>>>>>>> parent of 85d81bb... masterからのコミットでやんす
 =======
 >>>>>>> parent of 85d81bb... masterからのコミットでやんす
